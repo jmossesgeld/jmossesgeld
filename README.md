@@ -1,7 +1,7 @@
 - 👋 Hi, I’m John Al Mossesgeld
 - 👀 I’m an accountant and a software/web developer.
-- 🌱 I’m currently learning machine learning and AI.
-- 💞️ I’m looking to collaborate on some open source projects relating to business and finance.
+- 🌱 I primarily code in Python and Javascript.
+- 💞️ I’m looking to collaborate on some open source projects.
 - 📫 You can reach me by email jmossesgeld@gmail.com.
 - ❤️ Thank you for visiting 🥰
 
