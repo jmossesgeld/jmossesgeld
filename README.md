@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Al Mossesgeld</h1>
-<h3 align="center">I am a fullstack web developer.</h3>
+<h3 align="center">Full-stack Developer</h3>
 
 
 - 🌱 I’m currently learning **Web 3 Motoko**
